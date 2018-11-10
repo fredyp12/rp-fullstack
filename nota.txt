@@ -1,2 +1,4 @@
 ruby 2.4
 gem install rails
+
+ root :to => "welcome#index" //cambiar ruta
